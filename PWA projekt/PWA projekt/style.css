@@ -1,0 +1,104 @@
+html {
+    margin: 0 auto;
+    padding: 0;
+}
+body {
+    margin: auto;
+    background-color: rgb(233, 233, 233);
+}
+header {
+    background-color: white;
+    text-align: center;
+    margin-bottom: 1%;
+}
+h2{
+    text-transform: uppercase;
+}
+footer {
+    background-color:#111 ;
+    color: white;
+    padding-bottom: 100%;
+}
+nav {
+    border-top: grey 1px solid;
+}
+ul {
+    list-style: none;
+}
+a {
+    color: rgb(68, 68, 68);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+li {
+    padding: 3px;
+}
+.zadnji {
+    border: none;
+}
+.zaglavlje {
+    border: red solid 5px;
+    color: red;
+}
+.prvi {
+    border: orange solid 5px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+.sport {
+    background-color: white;
+}
+.kultur {
+    background-color: white;
+}
+.sport h6 {
+    color: orange;
+    font-weight: bold;
+}
+.sport p {
+    font-size: large;
+    font-weight: bold;
+}
+.drugi {
+    border: red solid 5px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.kultur h6 {
+    color: red;
+    font-weight: bold;
+}
+.kultur p {
+    font-size: large;
+    font-weight: bold;
+}
+.zadnje {
+    text-align: center;
+    border: 20px solid white;
+    background-color: white;
+}
+.zadnje p {
+    color: black;
+}
+.logo {
+    padding: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 4%;
+    width: 4%;
+}
+.sport img {
+    padding: 1%;
+}
+.kultur img {
+    padding: 1%;
+}
+.forma {
+    text-align: center;
+}
+.novo {
+    text-align: center;
+}
